@@ -20,11 +20,7 @@ Skills:  JS / HTML / CSS / C / C++ / Java / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naincy04&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naincy04)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naincy04)
-
-![GitHub metrics](https://metrics.lecoq.io/Naincy04)  
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Naincy04)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Naincy04)  
 
