@@ -21,10 +21,10 @@
 
 <br>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Naincy04&theme=highcontrast&show_icons=true&count_private=true">
-</div>
-	
-<div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naincy04&layout=compact">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&show_icons=true&hide_border=true">
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Naincy04&icon=0&color=0)](https://visitcount.itsvg.in)
