@@ -22,8 +22,7 @@
 <br>
 
 <div align="left"> 
-	  <img src="https://github-readme-stats.vercel.app/api?username=Naincy04&show_icons=true&hide_border=true&count_private=true">
-	  <img src="https://github-readme-stats.vercel.app/api/toplangs/username=Naincy04&show_icons=true&hide_border=true&layout=compact&langs_count=8">
+	[![Naincy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naincy04)](https://github.com/Naincy04/github-readme-stats)
 </div>
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&show_icons=true&hide_border=true">
