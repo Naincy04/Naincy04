@@ -2,7 +2,7 @@
 #### <H2 align="middle">**On my way to become a developer...**</H2>
 <img align="right" height="350" width="350" alt="" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" />
 
-<p>I am in my second year pursuing BTech in Computer Science & Engineering...</p><br>
+<p>I am in my third year pursuing BTech in Computer Science & Engineering...</p><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/Naincy Kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naincy Kumari" height="30" width="40" /></a>
