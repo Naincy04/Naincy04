@@ -30,9 +30,9 @@
 </div>
   <br/>
 ![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
+<a></a>
 <a href="https://github.com/niancy04"><img alt="Naincy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=naincy04&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-
+</a>
 </a>
 
 <br/>
