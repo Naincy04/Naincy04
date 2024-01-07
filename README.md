@@ -27,6 +27,6 @@
 # 📊 GitHub Stats:
  [![GitHub Streak](https://streak-stats.demolab.com/?user=naincy04&theme=tokyonight)](https://git.io/streak-stats)
   <br/>
-
-![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=Naincy04&icon=0&color=0)](https://visitcount.itsvg.in)
