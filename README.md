@@ -25,9 +25,7 @@
 <br>
 
 # 📊 GitHub Stats:
- <a href="https://github.com/bishal-p">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&theme=radical&border=7F3FBF&background=0D1117" alt="Bishal's GitHub streak"/>
-  </a>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=bishal-p)](https://git.io/streak-stats)
   <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
