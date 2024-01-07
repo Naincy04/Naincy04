@@ -25,9 +25,15 @@
 <br>
 
 # 📊 GitHub Stats:
-<div align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=naincy04&theme=tokyonight)](https://git.io/streak-stats)</div>
+<div align="center"> 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=naincy04&theme=tokyonight)](https://git.io/streak-stats)
+</div>
   <br/>
 ![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-<a href="https://github.com/niancy04"><img alt="Naincy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=naincy04&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
+<a href="https://github.com/niancy04"><img alt="Naincy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=naincy04&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+
+</a>
+
 <br/>
 [![](https://visitcount.itsvg.in/api?id=Naincy04&icon=0&color=0)](https://visitcount.itsvg.in)
