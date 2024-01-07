@@ -26,7 +26,7 @@
 
 # 📊 GitHub Stats:
  <a href="https://github.com/bishal-p">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naincy04&theme=radical&border=7F3FBF&background=0D1117" alt="Bishal's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&theme=radical&border=7F3FBF&background=0D1117" alt="Bishal's GitHub streak"/>
   </a>
   <br/>
 
