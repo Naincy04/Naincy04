@@ -25,10 +25,13 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
  <a href="https://github.com/bishal-p">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-p&theme=radical&border=7F3FBF&background=0D1117" alt="Bishal's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naincy04&theme=tokyonight&border=7F3FBF&background=0D1117" alt="Bishal's GitHub streak"/>
   </a>
+  <br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
