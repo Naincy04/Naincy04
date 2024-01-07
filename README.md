@@ -25,7 +25,7 @@
 <br>
 
 # 📊 GitHub Stats:
- [![GitHub Streak](https://streak-stats.demolab.com/?user=naincy04)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=naincy04&theme=tokyonight)](https://git.io/streak-stats)
   <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
