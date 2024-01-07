@@ -26,7 +26,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
- <a href="https://github.com/bishal-p"><img alt="Bishal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bishal-p&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+ <a href="https://github.com/bishal-p">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-p&theme=radical&border=7F3FBF&background=0D1117" alt="Bishal's GitHub streak"/>
+  </a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naincy04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
