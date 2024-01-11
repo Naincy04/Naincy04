@@ -28,7 +28,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Naincy04&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Naincy04)](https://git.io/streak-stats)
   </div>
   <br/>
 <div align="center"
