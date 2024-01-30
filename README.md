@@ -1,6 +1,6 @@
 ### <H1 align="middle">**Hi there** 👋, **I'm Naincy...**</H1>
 #### <H2 align="middle">**On my way to become a developer...**</H2>
-                                                                                                                           
+                                                                                                                                   
 <img align="right" height="350" width="350" src="https://github.com/Naincy04/Naincy04/blob/564c90e6a3116160cd2a99949f939d4fe2fcade7/image.png" />
                  
 <p>I am in my third year pursuing BTech in Computer Science & Engineering...</p><br>               
