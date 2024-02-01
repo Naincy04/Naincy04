@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>        
 <div align="left" border="2px solid white">                          
 
-                                                                  
+                                                                            
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" height="33" width="50" alt="java logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="c++ logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
