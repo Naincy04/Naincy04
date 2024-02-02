@@ -11,7 +11,8 @@
 <a href="https://twitter.com/@ItsNaincy" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="@ItsNaincy" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>        
-<div align="left" border="2px solid white">                          
+<div align="left" border="2px solid white">                               
+
 
                                                                                  
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" height="33" width="50" alt="java logo" />
