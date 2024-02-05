@@ -36,7 +36,6 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Naincy04&theme=dark" alt="GitHub Streak" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&" alt="GitHub Streak" /></p>
 
   </div>
@@ -46,7 +45,6 @@
 <div align="center"
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naincy04&show_icons=true&locale=en" alt="Naincy" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naincy04&layout=compact&theme=dark)
 
 </div>
 
