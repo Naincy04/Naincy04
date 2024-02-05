@@ -45,6 +45,7 @@
 <div align="center"
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naincy04&show_icons=true&locale=en" alt="Naincy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshaen&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top languages" /></p>
 
 </div>
 
