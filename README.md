@@ -37,6 +37,7 @@
 <div align="center">
   
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Naincy04&theme=dark" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&" alt="GitHub Streak" /></p>
 
   </div>
   
