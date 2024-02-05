@@ -44,7 +44,7 @@
   
 <div align="center"
   
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naincy04&show_icons=true&locale=en" alt="Naincy" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naincy04&layout=compact&theme=dark)
 
 </div>
