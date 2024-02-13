@@ -37,7 +37,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&theme=dark" alt="GitHub Streak" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy04&" alt="GitHub Streak" /></p>
 </div>
 
 <br>
