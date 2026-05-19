@@ -1,7 +1,5 @@
 # Hi 👋 I'm Naincy
 
-### Software Engineer • SAP Basis • Cybersecurity Learner
-
 ---
 
 ### 🛠 Tech Stack
